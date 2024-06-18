@@ -11,3 +11,12 @@
   <p align="justify" style="font-family:roboto;"> Atualmente trabalho como Analista de Sistemas na <a href="https://www.ab-inbev.com/">AB Inbev</a>, atuando como especialista na ferramenta Zendesk e no desenvolvimento de integrações utilizando de Scripts Python.</p>
   
   <table align="center">
+<tr>
+    <td align="center"><a href="https://www.linkedin.com/in/gabriel-timoteo-santos"><img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/GabrielTimoteo.png" width="200px;" alt=""/><br/><b>Gabriel Timoteo</b></a>
+      <br/>
+      Back-end Developer / PO
+     </td>
+   </tr>
+  </table>
+  
+---

@@ -20,3 +20,39 @@
   </table>
   
 ---
+
+<h2> Meus Principais Conhecimentos :bar_chart:</h2>
+<ul>
+  <li>Linguagens de programação:
+  <ul>
+    <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
+    <li><code>Python</code> para automação de processos e manipulação de documentos no Banco de Dados NoSQL <code>MongoDB</code>;</li>
+    <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
+    </ul></li>
+  <br>
+  <li> Metodologia Ágil (Scrum) - Scrum Master:
+  <ul> 
+    <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
+    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
+    <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;</li>
+    <li>Utilização das ferramentas <code>Trello</code> e <code>Jira</code>.</li> 
+    </ul></li>
+  <br>
+  <li> DevOps:
+  <ul> 
+    <li>Versionamento de código padronizado com Git Workflow;</li>
+    <li>Pipelines build, teste unitário, teste integrado e deploy pelo <code>CircleCI</code>;</li>
+    <li>Documentação de rota REST back-end com <code>Swagger</code>.</li>
+    </ul></li>
+  </ul>
+
+---
+
+ <h2 align="center"> Meus Projetos :books:</h2>
+ 
+   <p align="justify" style="font-family:roboto;"><li><a href=""> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href=""> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href=""> 4° Semestre: AgendHouse - Uma plataforma de gerenciamento de eventos</a></li></p>
+
+</body>
+</html>

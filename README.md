@@ -30,7 +30,7 @@
     <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
     </ul></li>
   <br>
-  <li> Metodologia Ágil (Scrum) - Scrum Master:
+  <li> Metodologia Ágil (Scrum) - PO:
   <ul> 
     <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
     <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>

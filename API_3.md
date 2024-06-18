@@ -45,19 +45,19 @@
   <details>
   <summary>API de moedas</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-moeda-api.png" width="500px;" alt=""/>
   </details>
 
   <details>
   <summary>HTML</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/html.png" width="500px;" alt=""/>
   </details>
 
   <details>
   <summary>JS com a lógica do reconhecimento de voz</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/DiagramaArq.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/js.png" width="500px;" alt=""/>
   </details>
   
   <ul>

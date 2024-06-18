@@ -162,10 +162,10 @@
 
  <h2 align="center"> Navegação Projetos :link:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
    <p align="justify" style="font-family:roboto;"><li>4° Semestre: AgendHouse - Uma plataforma de gerenciamento de eventos</li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/GabrielSG20/Portfolio/blob/main/README.md"> Voltar para página inicial</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/README.md"> Voltar para página inicial</a></li></p>
 
 </body>
 </html>

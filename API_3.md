@@ -105,12 +105,12 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Scrum - Scrum Master</td>
+      <td>Metodologia Scrum</td>
       <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>Spring Boot</td>
@@ -138,7 +138,7 @@
     </tr>
     <tr>
       <td>Responsabilidade</td>
-      <td>Assumi novamente o cargo de Scrum Master.</td>
+      <td>Aprendia gerenciar minhas tarefas, e consegui idenficar melhor os impactos que minhas atividades tem no projeto e nas entregas do time.</td>
     </tr>
     <tr>
       <td>Comunicação</td>

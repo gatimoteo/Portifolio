@@ -70,7 +70,7 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Scrum - Scrum Master</td>
+      <td>Metodologia Scrum</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>

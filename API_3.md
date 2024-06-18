@@ -40,84 +40,61 @@
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
   <h3> Atribuições como Desenvolvedor Back-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como Desenvolvedor Back-End, desenvolvi a página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e convertar os valores entre Real, Dólar e Euro.</p>
+  <li> Desenvolvimento da página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e convertar os valores entre Real, Dólar e Euro.<br><br>
   
   <details>
   <summary>API de moedas</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-moeda-api.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-moeda-api.png" width="800px;" alt=""/>
   </details>
 
   <details>
   <summary>HTML</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/html.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/html.png" width="800px;" alt=""/>
   </details>
 
   <details>
   <summary>JS com a lógica do reconhecimento de voz</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/js.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/js.png" width="800px;" alt=""/>
   </details>
   
-  <ul>
-  <li> <p align="justify" style="font-family:roboto;">Model: são representações das tabelas do Banco de Dados Oracle, tendo seus campos e relações mapeadas pelo Hibernate. Resultando em uma melhor validação dos dados e facilitação com consultas, inserções e atualizações na Database;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Repositories: são interfaces que tem como função serem camadas de acesso a dados. Eles extendem o JpaRepository, portanto há um melhor e mais fácil acesso aos métodos de manipulação dos dados na Database, sendo inserção (save), consulta (listAll), atualização (save) e deleção (deleteById) os que utilizamos no desenvolvimento. Além de permitirem realizar comandos SQL customizados de acordo com a necessidade da funcionalidade;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Services: são classes que concentram os métodos do Repository, visto que tem essa interface injetada com a anotação @Autowired. Sendo adicionados neles a lógica essencial para regra de negócio imposta pelo cliente, como por exemplo o envio de e-mails, além de contribuirem muito para organização dos métodos utilizados pela interface;</p>
-  </li>
-    
-  <li> <p align="justify" style="font-family:roboto;">Controllers: são as classes onde se encontram os Endpoints do Back-End que serão utilizados para interação com o Front-End, isso corre pela chamada de rotas presentes em seus métodos, pela anotação @RequestMapping("/rota-exemplo"). Contém os Services necessários injetados com a anotação @Autowired e utiliza das chamadas dos métodos dessas classes para realização da lógica desenvolvida.</p>
-  </li>
-  </ul>
-  
-  <p align="justify" style="font-family:roboto;"> Ademais, utilizarmos a arquitetura REST, visto que a comunicação entre as aplicações ocorre com requisições HTTP, podendo ser perceptível pelas rotas nos controllers. Nesse ponto, também foi implementado o padrão de projeto Proxy, uma vez que controlamos o acesso aos objetos nas requisições com as anotações do Spring Boot. Além do uso do padrão Facade, aplicado nos repositórios do sistema, sendo uma interface que simplifica as funcionalidades das classes da Java Persistence API (JPA).</p>
-  <details>
-  <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/PadraoProxy.png" width="800px;" alt=""/>
-  </details>
-  
-   <p align="justify" style="font-family:roboto;"> Também, foi necessário realizar uma configuração de Cors, que verifica a real origem, métodos HTTP e cabeçalhos de uma determinada solicitação enviada para o Back-End. Sendo fundamental para conexão com o Front-End, porque permite que a rota utilizada no Angular consiga fazer requisições e receber suas respostas.</p>
-  <details>
-  <summary>Clique aqui para visualizar a configuração dos Cors</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Config-Cors.png" width="800px;" alt=""/>
-  </details>
-  
-  <p align="justify" style="font-family:roboto;"> A seguir foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados Oracle que está em
-  nuvem no Oracle Cloud, por meio do sistema de Wallet. Além de declarar: o driver utilizado (oracle.jdbc.OracleDriver), a versão da linguagem do Banco (Oracle12cDialect), a maneira que o hibernate vai ler os Models (validate) e a porta que será rodado o serviço (PORT:8080).</p>
-  <details>
-  <summary>Clique aqui para visualizar as Properties</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Properties-VPC.png" width="800px;" alt=""/>
-  </details>
-  
-  <p align="justify" style="font-family:roboto;"> Por fim, colaborei com o deploy do Front-End no Heroku, por meio do método manual usando uma branch do GitHub do projeto. Com isso o sistema ficou 100% hospedado em nuvem e disponível pelo seguinte link: <a href="http://vempracasa.herokuapp.com/">#VEMPRACASA</a></p>
-  <details>
-  <summary>Clique aqui para visualizar o deploy no Heroku</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Heroku.png" width="1000px;" alt=""/>
-  </details>
-  
-  <h3> Atribuições como Scrum Master</h3>
-  <p align="justify" style="font-family:roboto;"> As atribuições como Scrum Master da equipe foram pertinentes a realizar um bom planejamento e organização das ações do grupo no decorrer das Sprints. No início do projeto, foi realizada uma reunião para definir nosso principal meio de comunicação e a ferramenta para monitoramento de tarefas, assim decidimos utilizar, respectivamente, o Discord e o Jira. Como Master da equipe, fiquei responsável por acompanhar e analisar o progresso do grupo nesses softwares, de modo a observar se todos os integrantes estavam participando das reuniões semanais e se apresentavam alguma dificuldade com a evolução das tarefas, logo atuando da melhor maneira de acordo com a situação.</p>
-  <p align="justify" style="font-family:roboto;"> Após a apresentação do problema por parte do cliente, utilizamos a metodologia Product Backlog Building (<a href="https://www.caroli.org/livro/pbb/">AGUIAR; CAROLI, 2021</a>) para a elaboração de um Backlog conciso com as necessidades do cliente. Obtendo como resultado final desse processo as User Stories que compõe o Product Backlog e a descrição da experiência do usuário com o produto, além de promover um ótimo entendimento das regras de negócio e os primeiros questionamentos para o cliente. Com esse alinhamento inicial finalizado, as User Stories foram divididas entre as 4 Sprints do projeto, dessa forma tive a função de quebrar essas histórias em tarefas menores e mais objetivas, para um melhor desenvolvimento do que foi planejado, e também delegar essas tasks entre os integrantes da equipe.</p>
-  <details>
-  <summary>Clique aqui para visualizar a organização de uma Sprint no Jira</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/Jira.png" width="1000px;" alt=""/>
-  </details>
-  
-   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
-   <div align="center">
-     <video src="https://user-images.githubusercontent.com/61523979/189658833-ef25e07d-417e-4832-8a5b-7613ce5d8853.mp4" controls="controls" style="max-rate: 730px;">
-     </video>    
-   </div>
+  <li> Construção de uma página de aeroportos, onde o usuário diz o nome de uma cidade e na página é mostrado os aeroportos próximos.<br><br>
+  
+  <details>
+  <summary>API que retorna os aeroportos próximos do local requisitado</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-aeroporto-api.png" width="800px;" alt=""/>
+  </details>
+
+  <details>
+  <summary>HTML</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-aeroporto-html.png" width="800px;" alt=""/>
+  </details>
+
+  <details>
+  <summary>JS com a lógica do reconhecimento de voz</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-aeroporto-voice.png" width="500px;" alt=""/>
+  </details>
+  
+
+  <li> Desenvolvimento de uma página de recomendação de filmes, que consome uma API desenvolvida pela Scrum Master do 6.º semestre.<br><br>
+
+  <details>
+  <summary>API da Scrum Master</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-filme-api.png" width="800px;" alt=""/>
+  </details>
+
+  <details>
+  <summary>HTML</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/api1-filme-html.png" width="800px;" alt=""/>
+  </details>
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
   

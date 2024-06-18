@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td>Responsabilidade</td>
-      <td>Precisei assumir o cargo de Scrum Master pela primeira vez.</td>
+      <td>Aprendia gerenciar minhas tarefas, e consegui idenficar melhor os impactos que minhas atividades tem no projeto e nas entregas do time.</td>
     </tr>
     <tr>
       <td>Comunicação</td>

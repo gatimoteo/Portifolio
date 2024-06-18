@@ -50,9 +50,9 @@
 
  <h2 align="center"> Meus Projetos :books:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li><a href=""> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href=""> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href=""> 4° Semestre: AgendHouse - Uma plataforma de gerenciamento de eventos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_2.md"> 2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_3.md"> 4° Semestre: AgendHouse - Uma plataforma de gerenciamento de eventos</a></li></p>
 
 </body>
 </html>

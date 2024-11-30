@@ -122,6 +122,8 @@
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_1.md"> 1º Semestre: Assistente Virtual para Idosos - O app que facilita o uso de smartphones para usuários da terceira idade</a></li></p>
    <p align="justify" style="font-family:roboto;"><li>2º Semestre: Trinity - Cadastro e análise de contas com mais simplicidade</li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_4.md"> 4° Semestre: AgendHouse - Uma plataforma de gerenciamento de eventos</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_5.md"> 5° Semestre: Quarks - Dashboard Web de Análise de Faturas de Energia, Água e Gás</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/API_6.md"> 6° Semestre: Quarks - Soluções de IA para o mercado de duplicatas de crédito</a></li></p>
    <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/gatimoteo/Portifolio/blob/main/README.md"> Voltar para página inicial</a></li></p>
 
 </body>

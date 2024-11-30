@@ -14,7 +14,7 @@
 <tr>
     <td align="center"><a href="https://www.linkedin.com/in/gabriel-timoteo-santos"><img style="border-radius: 50%;" src="https://github.com/gatimoteo/Portifolio/blob/main/images/GabrielTimoteo.png" width="200px;" alt=""/><br/><b>Gabriel Timoteo</b></a>
       <br/>
-      Back-end Developer / PO
+      Developer / PO
      </td>
    </tr>
   </table>

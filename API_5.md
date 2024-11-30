@@ -2,7 +2,7 @@
 <body>
   
   <h1 align="center"> API 5º Semestre - 01/2024</h1>
-  <a href="https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/quarks-team/Projeto-Integrador-TecSUS"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
   
   <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS</a></h2>
   

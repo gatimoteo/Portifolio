@@ -8,29 +8,39 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A equipe Trinity foi solicitada pela empresa parceira para o desenvolvimento de um software que tem por objetivo facilitar a digitação de contas de água e luz por parte da equipe do cliente. O software Desktop oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores. Também é possível gerar relatórios sobre os consumos e custos de água e luz de cada cliente.</p>
+  <p align="justify" style="font-family:roboto;"> A TecSUS é uma empresa especializada na coleta e processamento de contas de energia, água e gás, e que atende empresas dos setores atacadista e varejista. Devido ao grande volume de dados coletados, é necessário visibilidades para observar e atuar em redução de custos e alteração de contratos. O desafio consistia em desenvolver ferramentas de visualização de dados para organizar e explorar melhor os dados acerca das faturas, visando a otimização de análises e serviços para a empresa e seus clientes.</p>
+
+  <p align="justify" style="font-family:roboto;">Como solução, foi proposto o desenvolvimento de um dashboard web de alta complexidade, para análise e exibição de dados de faturas de energia e água, com o objetivo de atender a necessidade de visualização apurada das informações e visando a redução de custos e otimização de contratos. O sistema também tinha como proposta, o carregamento de arquivos csv e tratamento de tais, para proporcionar ao usuário um método ágil de visualizar, através de dashboards, as novas informações coletadas.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
-  <li><a href="https://www.java.com/pt_BR/">Java</a>:
-      <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+  <li><a href="https://vuejs.org/">Vue.js</a>:
+      <p align="justify" style="font-family:roboto;">Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.</p></li>
     
-  <li><a href="https://openjfx.io/">JavaFX</a>:
-  <p align="justify" style="font-family:roboto;"> Plataforma de software multimídia utilizada para criação de interfaces gráficas, utilizando a linguagem Java. </p>
+  <li><a href="https://pt.wikipedia.org/wiki/HTML/">HTML</a>:
+  <p align="justify" style="font-family:roboto;"> HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. </p>
     </li>
-    
-   <li><a href="https://www.mysql.com/">MySQL</a>:
-    <p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
 
-  <li><a href="https://www.gitpod.io/">Gitpod</a>:
-    <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento em nuvem utilizado para elaboração de aplicações Web ou Desktop em diversas linguagens de programação.</p></li>
-    
-  <li><a href="https://www.mockflow.com/">Mockflow</a>:
-    <p align="justify" style="font-family:roboto;">Ferramenta utilizada para a prototipação das wireframes, possui diversos mecanismos para estruturar telas que posteriormente serão desenvolvidas em uma aplicação</p></li>	
+  <li><a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets/">CSS</a>:
+  <p align="justify" style="font-family:roboto;"> Cascading Style Sheets (CSS) é um mecanismo para adicionar estilos (cores, fontes, espaçamento, etc.) a uma página web. </p>
+    </li>
 
-  <li><a href="https://trello.com/https://trello.com">Trello</a>:
-    <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a>:
+  <p align="justify" style="font-family:roboto;"> TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. </p>
+    </li>
+
+  <li><a href="https://nestjs.com/">Nest.js</a>:
+  <p align="justify" style="font-family:roboto;"> NestJS é um framework Node.js de código aberto destinado ao desenvolvimento de aplicativos do lado do servidor. </p>
+    </li>
+
+  <li><a href="https://pt.wikipedia.org/wiki/SQL/">SQL</a>:
+  <p align="justify" style="font-family:roboto;"> SQL é uma linguagem de domínio específico desenvolvida para gerenciar dados relacionais em um sistema de gerenciamento de banco de dados, ou para processamento de fluxo de dados em um sistema de gerenciamento de fluxo de dados. </p>
+    </li>
+
+  <li><a href="https://www.mysql.com/">MySQL</a>:
+  <p align="justify" style="font-family:roboto;"> O MySQL é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL como interface. </p>
+    </li>  
 
   </ul>
   

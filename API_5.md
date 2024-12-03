@@ -46,31 +46,49 @@
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Back-end</h3>
-    <p align="justify" style="font-family:roboto;"> No projeto Trinity participei da construção da solução como desenvolvedor back-end Java, contribuindo para a criação das funcionalidades utilizadas no front-end. Elaborando os métodos que faziam a captação dos dados na interface gráfica, aplicava as regras de negócio propostas pelo cliente e persistia as informações no Banco de Dados MySQL.</p> 
-  <p align="justify" style="font-family:roboto;">Atuando também no desenvolvimento da conexão com o banco de dados, das classes que representavam os modelos das tabelas do banco de dados e das classes com padrão de projetos DAO, que tem como objetivo trocar informações com o Sistema Gerenciador de Banco de Dados (SGBD) para as operações de CRUD utilizadas.</p>
-  <details>
-  <summary>Clique aqui para visualizar o padrão de projetos DAO</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="200px;" alt=""/>
-  </details>
+  <h3> Atribuições de Product Owner (PO) </h3>
+    <p>Durante o desenvolvimento do projeto, atuei como <strong>Product Owner (PO)</strong>, com a responsabilidade de coordenar a visão do produto e garantir que as entregas atendiam às necessidades dos stakeholders. Minhas principais atribuições foram:</p>
+
+<ul>
+  <li><strong>Gestão do Backlog do Produto:</strong>
+    <ul>
+      <li>Priorização de tarefas com base no valor de negócio e nas necessidades do usuário.</li>
+      <li>Definição de histórias de usuário claras e concisas para facilitar o desenvolvimento.</li>
+    </ul>
+  </li>
   
-  <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
+  <li><strong>Planejamento de Sprints:</strong>
+    <ul>
+      <li>Planejamento e definição dos objetivos de cada sprint, alinhando-os com as necessidades do cliente.</li>
+      <li>Garantia de que os entregáveis estivessem bem definidos e alinhados com as expectativas de todos os stakeholders.</li>
+    </ul>
+  </li>
   
-  <ul>
-    <li>Criação e configuração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
-    <li>Métodos de captação e processamento dos dados derivados do front-end;</li> 
-    <li>Conexão do back-end com o banco de dados MySQL;</li>
-    <li>Mapeamento das tabelas do banco em classes;</li>
-    <li>Criação das classes para operações CRUD com o BD, por meio do padrão DAO.</li>
-  </ul>
+  <li><strong>Interação com a Equipe de Desenvolvimento:</strong>
+    <ul>
+      <li>Comunicação contínua com os desenvolvedores para garantir que as funcionalidades fossem implementadas de acordo com a visão do produto.</li>
+      <li>Acompanhamento da execução das tarefas e identificação de possíveis obstáculos no andamento do projeto.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Teste e Validação das Funcionalidades:</strong>
+    <ul>
+      <li>Aprovação das funcionalidades entregues após cada sprint, garantindo que estivessem alinhadas com os requisitos e atendiam aos critérios de aceitação.</li>
+      <li>Realização de testes de usabilidade para garantir que a plataforma estivesse fácil de usar e intuitiva.</li>
+    </ul>
+  </li>
+  
+  <li><strong>Gestão de Stakeholders:</strong>
+    <ul>
+      <li>Reuniões regulares com stakeholders para entender suas necessidades e incorporar feedback contínuo no produto.</li>
+      <li>Comunicação clara sobre o progresso do projeto e ajustes necessários para garantir o sucesso do lançamento.</li>
+    </ul>
+  </li>
+</ul>
   
  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
-
- <div align="center">
-   <video src="https://user-images.githubusercontent.com/61523979/188245256-80b75584-405d-4713-8a07-c2f94264325e.mp4" controls="controls" style="max-rate: 730px;">
-   </video>    
- </div>
+<img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS/blob/main/Documents/Gifs/gif-dash-agua.gif?raw=true"/>
+<img src="https://github.com/quarks-team/Projeto-Integrador-TecSUS/blob/main/Documents/Gifs/gif-dash-luz.gif?raw=true"/>
 
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 align="center"> Hard Skills </h3>
@@ -80,24 +98,24 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Scrum</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Gestão de Backlog</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
-      <td>Java</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Planejamento de Sprints</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
-      <td>JavaFX</td>
+      <td>Análise de Dados</td>
       <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
-      <td>MySQL</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Documentação Técnica</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
      <tr>
-      <td>GIT</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>Ferramentas de Colaboração e Gestão Ágil</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
   </table>
   
@@ -108,20 +126,20 @@
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Responsabilidade</td>
-      <td>Aprendia gerenciar minhas tarefas, e consegui idenficar melhor os impactos que minhas atividades tem no projeto e nas entregas do time.</td>
+      <td>Comunicação Efetiva</td>
+      <td>Como PO, eu precisei comunicar claramente a visão do produto para todos os membros da equipe e stakeholders. Isso envolve explicar as funcionalidades de forma compreensível, ouvir feedbacks e garantir que todas as partes estivessem alinhadas quanto aos objetivos do projeto.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas na SPRINT.</td>
+      <td>Tomada de Decisão</td>
+      <td>Como PO, eu tive que tomar decisões rápidas e eficazes sobre as funcionalidades a serem priorizadas, alinhadas com as metas do projeto. Essas decisões impactaram o andamento do projeto e exigiram habilidades analíticas e de julgamento.</td>
     </tr>
     <tr>
-      <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
+      <td>Gestão de Expectativas</td>
+      <td>Como PO, eu precisei gerenciar as expectativas dos stakeholders, priorizando suas necessidades de acordo com o valor do negócio. Isso exigiu habilidades para negociar, ajustar o backlog e garantir que os stakeholders estivessem satisfeitos com as entregas.</td>
     </tr>
     <tr>
-      <td>Planejamento</td>
-      <td>Precisei quebrar as tarefas das SPRINT's, colocando datas limites.</td>
+      <td>Gestão de Conflitos</td>
+      <td>Em projetos ágeis, podem surgir desacordos entre stakeholders ou dentro da equipe sobre prioridades e funcionalidades. Como PO, eu precisei gerenciar esses conflitos, mantendo o foco nos objetivos do projeto.</td>
     </tr>
   </table>
   

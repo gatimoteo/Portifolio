@@ -4,7 +4,7 @@
   <h1 align="center"> API 6º Semestre - 02/2024</h1>
   <a href="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
   
-  <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">SPC Grafeno</a></h2>
+  <h2> Parceiro Acadêmico: <a href="https://spcgrafeno.com.br/">SPC Grafeno</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   

@@ -14,24 +14,36 @@
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
   <ul>
-  <li><a href="https://www.java.com/pt_BR/">Java</a>:
-      <p align="justify" style="font-family:roboto;"> Linguagem de programação utilizada para o desenvolvimento Back-End do sistema, apresenta como principais características: Portabilidade, Robustez, Segurança, Orientação a Objetos, Dinâmica e Alto Desempenho. Foi um requisito técnico solicitado pelo cliente.</p></li>
+  <li><a href="https://vuejs.org/">Vue.js</a>:
+      <p align="justify" style="font-family:roboto;">Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.</p></li>
     
-  <li><a href="https://openjfx.io/">JavaFX</a>:
-  <p align="justify" style="font-family:roboto;"> Plataforma de software multimídia utilizada para criação de interfaces gráficas, utilizando a linguagem Java. </p>
+  <li><a href="https://pt.wikipedia.org/wiki/HTML/">HTML</a>:
+  <p align="justify" style="font-family:roboto;"> HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. </p>
+    </li>
+
+  <li><a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets/">CSS</a>:
+  <p align="justify" style="font-family:roboto;"> Cascading Style Sheets (CSS) é um mecanismo para adicionar estilos (cores, fontes, espaçamento, etc.) a uma página web. </p>
     </li>
     
-   <li><a href="https://www.mysql.com/">MySQL</a>:
-    <p align="justify" style="font-family:roboto;"> Sistema de gerenciamento de banco de dados utilizado para criação e manipulação de bases de dados, onde eram armazenadas as informações do software.</p></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">Javascript</a>:
+  <p align="justify" style="font-family:roboto;"> JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. </p>
+    </li> 
 
-  <li><a href="https://www.gitpod.io/">Gitpod</a>:
-    <p align="justify" style="font-family:roboto;"> Ambiente de desenvolvimento em nuvem utilizado para elaboração de aplicações Web ou Desktop em diversas linguagens de programação.</p></li>
-    
-  <li><a href="https://www.mockflow.com/">Mockflow</a>:
-    <p align="justify" style="font-family:roboto;">Ferramenta utilizada para a prototipação das wireframes, possui diversos mecanismos para estruturar telas que posteriormente serão desenvolvidas em uma aplicação</p></li>	
+  <li><a href="https://www.typescriptlang.org/">Typescript</a>:
+  <p align="justify" style="font-family:roboto;"> TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. </p>
+    </li>
 
-  <li><a href="https://trello.com/https://trello.com">Trello</a>:
-    <p align="justify" style="font-family:roboto;"> Foi utilizado como ferramenta do método Scrum para distribuição das atividades do grupo e priorização das demandas. Possibilitando realizar o planejamento das sprints, sendo capaz de registrar o progresso da equipe e do projeto, facilitando o desenvolvimento e acompanhamento da realização de tarefas. </p></li>
+  <li><a href="https://nestjs.com/">Nest.js</a>:
+  <p align="justify" style="font-family:roboto;"> NestJS é um framework Node.js de código aberto destinado ao desenvolvimento de aplicativos do lado do servidor. </p>
+    </li>
+
+  <li><a href="https://www.python.org/">Python</a>:
+  <p align="justify" style="font-family:roboto;"> Python é uma linguagem de programação de alto nível,[10] interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. </p>
+    </li>
+
+  <li><a href="https://www.mongodb.com/">MongoDB</a>:
+  <p align="justify" style="font-family:roboto;"> MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++. </p>
+    </li>  
 
   </ul>
   

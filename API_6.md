@@ -1,14 +1,15 @@
 <html>
 <body>
   
-  <h1 align="center"> API 2º Semestre - 02/2020</h1>
-  <a href="https://github.com/GabrielSG20/Projeto_Integrador_2-Sem2020"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+  <h1 align="center"> API 6º Semestre - 02/2024</h1>
+  <a href="https://github.com/quarks-team/Projeto-Integrador-SPCGrafeno"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
   
-  <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS</a></h2>
+  <h2> Parceiro Acadêmico: <a href="https://tecsus.com.br/">SPC Grafeno</a></h2>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A equipe Trinity foi solicitada pela empresa parceira para o desenvolvimento de um software que tem por objetivo facilitar a digitação de contas de água e luz por parte da equipe do cliente. O software Desktop oferece uma maior facilidade para seus usuários, automatizando processos e diminuindo o tempo de cadastro, além da prevenção de erros por parte dos digitadores. Também é possível gerar relatórios sobre os consumos e custos de água e luz de cada cliente.</p>
+  <p align="justify" style="font-family:roboto;"> A SPC Grafeno é uma empresa especializada em tecnologia financeira para gestão de crédito e garantia de recebíveis e incubiu o desafio de explorar diversas bases de dados, em prol de desenvolver produtos financeiros para o mercado de duplicatas de crédito, buscando produtos de identificação de risco e tendências de mercado.</p>
+   <p align="justify" style="font-family:roboto;">Nossa solução foi desenvolver um sistema que analise a confiabilidade de endossantes utilizando algoritmos e modelos de IA. O sistema deveria gerar um score que refletiria o quão bem uma empresa cumpre seus compromissos de crédito. Considerando que a posse de uma duplicata geralmente garante que o valor contratado antecipadamente será pago, a solução visava aprimorar o processo de avaliação tanto para a empresa, quanto para seus clientes.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -36,31 +37,11 @@
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
-  <h3> Atribuições como Desenvolvedor Back-end</h3>
-    <p align="justify" style="font-family:roboto;"> No projeto Trinity participei da construção da solução como desenvolvedor back-end Java, contribuindo para a criação das funcionalidades utilizadas no front-end. Elaborando os métodos que faziam a captação dos dados na interface gráfica, aplicava as regras de negócio propostas pelo cliente e persistia as informações no Banco de Dados MySQL.</p> 
-  <p align="justify" style="font-family:roboto;">Atuando também no desenvolvimento da conexão com o banco de dados, das classes que representavam os modelos das tabelas do banco de dados e das classes com padrão de projetos DAO, que tem como objetivo trocar informações com o Sistema Gerenciador de Banco de Dados (SGBD) para as operações de CRUD utilizadas.</p>
-  <details>
-  <summary>Clique aqui para visualizar o padrão de projetos DAO</summary>
-  <br>
-   <img style="border-radius: 50%;" src="https://github.com/GabrielSG20/Portfolio/blob/main/images/API2Sem-DAO.png" width="200px;" alt=""/>
-  </details>
-  
-  <p align="justify" style="font-family:roboto;">Logo, participei dos seguintes processos:</p>
-  
-  <ul>
-    <li>Criação e configuração do ambiente em nuvem no <a href="https://www.gitpod.io/">Gitpod</a>;</li> 
-    <li>Métodos de captação e processamento dos dados derivados do front-end;</li> 
-    <li>Conexão do back-end com o banco de dados MySQL;</li>
-    <li>Mapeamento das tabelas do banco em classes;</li>
-    <li>Criação das classes para operações CRUD com o BD, por meio do padrão DAO.</li>
-  </ul>
+  <h3> Atribuições como Desenvolvedor </h3>
+    
   
  <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
- <div align="center">
-   <video src="https://user-images.githubusercontent.com/61523979/188245256-80b75584-405d-4713-8a07-c2f94264325e.mp4" controls="controls" style="max-rate: 730px;">
-   </video>    
- </div>
 
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 <h3 align="center"> Hard Skills </h3>

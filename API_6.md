@@ -8,8 +8,8 @@
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
-  <p align="justify" style="font-family:roboto;"> A SPC Grafeno é uma empresa especializada em tecnologia financeira para gestão de crédito e garantia de recebíveis e incubiu o desafio de explorar diversas bases de dados, em prol de desenvolver produtos financeiros para o mercado de duplicatas de crédito, buscando produtos de identificação de risco e tendências de mercado.</p>
-   <p align="justify" style="font-family:roboto;">Nossa solução foi desenvolver um sistema que analise a confiabilidade de endossantes utilizando algoritmos e modelos de IA. O sistema deveria gerar um score que refletiria o quão bem uma empresa cumpre seus compromissos de crédito. Considerando que a posse de uma duplicata geralmente garante que o valor contratado antecipadamente será pago, a solução visava aprimorar o processo de avaliação tanto para a empresa, quanto para seus clientes.</p>
+  <p align="justify" style="font-family:roboto;"> A SPC Grafeno é uma empresa especializada em tecnologia financeira que desenvolve soluções para gestão de crédito e garantia de recebíveis. A empresa enfrenta o desafio de analisar grandes volumes de dados com o objetivo de criar produtos financeiros mais eficazes, como ferramentas de identificação de risco e previsão de tendências de mercado para duplicatas de crédito.</p>
+   <p align="justify" style="font-family:roboto;">A solução envolveu o desenvolvimento de um sistema inteligente capaz de avaliar a confiabilidade dos endossantes por meio de algoritmos de IA, gerando um score baseado em seus históricos de duplicatas. No entanto, para garantir a eficácia dos algoritmos e modelos de IA, foi necessário realizar um processo robusto de extração, transformação e carga (ETL) dos dados provenientes de várias fontes.</p>
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
@@ -63,23 +63,23 @@
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Scrum</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>Linguagens de Programação (Python)</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
-      <td>Java</td>
-      <td>★★★★★☆☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>JavaFX</td>
+      <td>Manipulação de Dados com Pandas</td>
       <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
-      <td>MySQL</td>
+      <td>Modelagem de Dados</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Tratamento de Erros e Exceções</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
      <tr>
-      <td>GIT</td>
+      <td>Automação de Processos</td>
       <td>★★★★★★☆☆☆☆</td>
     </tr>
   </table>
@@ -91,20 +91,20 @@
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Responsabilidade</td>
-      <td>Aprendia gerenciar minhas tarefas, e consegui idenficar melhor os impactos que minhas atividades tem no projeto e nas entregas do time.</td>
+      <td>Resolução de Problemas</td>
+      <td>Como desenvolvedor tive que identificar e resolver problemas durante o processo de transformação de dados, como garantir a presença de colunas essenciais nos arquivos CSV e lidar com erros durante a carga dos dados no banco de dados. A habilidade de diagnosticar e resolver erros de maneira eficiente é uma soft skill valiosa em qualquer área de tecnologia.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar com a equipe para saber a evolução das tarefas na SPRINT.</td>
+      <td>Comunicação Clara e Documentação</td>
+      <td>Tive que fazer o uso de logs de erros e sucessos (logging) ao longo do processo de ETL e isso reflete uma boa prática de documentação e comunicação do estado do sistema. Manter registros claros de processos, erros e sucessos é fundamental para trabalhar de forma colaborativa e garantir a rastreabilidade do trabalho.</td>
     </tr>
     <tr>
-      <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
+      <td>Gestão de Tempo e Priorização</td>
+      <td>O projeto envolveu várias etapas, como a carga de dados, transformação e inserção no banco de dados. Tive que exercitar a habilidade de gerenciar essas etapas, garantindo que tudo fosse feito no tempo adequado para alimentar os algoritmos de IA, é um exemplo de boa gestão de tempo e priorização.</td>
     </tr>
     <tr>
-      <td>Planejamento</td>
-      <td>Precisei quebrar as tarefas das SPRINT's, colocando datas limites.</td>
+      <td>Adaptação e Flexibilidade</td>
+      <td>A adaptação às diferentes fontes de dados e a modificação das transformações conforme as necessidades do sistema de IA fez com que eu tivesse que ser flexível e me ajustar rapidamente às mudanças nos requisitos do projeto ou problemas imprevistos.</td>
     </tr>
   </table>
   
